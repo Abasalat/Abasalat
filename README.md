@@ -13,7 +13,7 @@ Hi there, Aba Salat here.<br><br>**Student Life**<br>I completed my Bachelor of 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abasalat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⏱️ Weekly Coding Stats:
-![Wakatime Stats](https://wakatime.com/share/@2f569780-cba1-4234-8656-77afa4f397d3/f5867103-796e-485a-841a-1b0444b37739.svg)
+![Wakatime Stats](https://wakatime.com/share/@2f569780-cba1-4234-8656-77afa4f397d3/986f29a1-709c-42b1-ab60-16e29e266bfb.svg) 
 
 ---
 [![](https://komarev.com/ghpvc/?username=Abasalat&icon=0&color=0)](https://visitcount.itsvg.in)
