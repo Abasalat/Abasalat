@@ -1,12 +1,11 @@
 # About Me:
-Hi there, Aba Salat here.<br><br>
-
-**Background**
+Hi there, Aba Salat here.<br>
+**Background:**
 B.S. in Computer Science, Sukkur IBA University (2025). Final year project: using the Pepper
 humanoid robot to study classroom engagement, comparing robot-led vs. human-led instruction.
 
-**What I do**
-Full Stack and AI Developer — I design, build, and ship production-ready web apps end to end:
+**What I do:**
+Full-Stack AI Engineer — I design, build, and ship production-ready web apps end to end:
 responsive interfaces, dashboards, authentication, subscription billing, and API integrations.
 I also build AI features like RAG-based assistants, chatbots, and AI image/video generation
 using Claude, GPT-4, Gemini, vector stores, and MCP servers.
@@ -14,7 +13,7 @@ using Claude, GPT-4, Gemini, vector stores, and MCP servers.
 My work spans full-stack SaaS platforms and freelance projects — from gamified learning apps
 and RAG-based medical assistants to AI automation and validation pipelines.
 
-**Stack**
+**Stack:**
 `React` `Next.js` `TypeScript` `Node.js` `Python` `Supabase` `PostgreSQL` `Firebase` `Stripe`
 `Claude` `GPT-4` `Gemini` `RAG Pipelines` `Vector Stores` `n8n` `MCP Servers`
 
